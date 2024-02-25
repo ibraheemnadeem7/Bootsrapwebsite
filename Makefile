@@ -24,6 +24,8 @@ PutHTML:
 	cp IMG_1895.jpg /var/www/html/Bootstrapwebsite/
 	cp IMG_2011.jpg /var/www/html/Bootstrapwebsite/
 	cp IMG_2027.jpg /var/www/html/Bootstrapwebsite/
+	cp dp.PNG /var/www/html/Bootstrapwebsite/
+
 
 	echo "Current contents of your HTML directory: "
 	ls -l /var/www/html/Bootstrapwebsite/
