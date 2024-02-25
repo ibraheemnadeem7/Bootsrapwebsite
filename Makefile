@@ -9,6 +9,21 @@ PutHTML:
 	cp images.html /var/www/html/Bootstrapwebsite/
 	cp socialmedia.html /var/www/html/Bootstrapwebsite/
 
+	cp Linkedin.svg.png /var/www/html/Bootstrapwebsite/
+	cp facebook.png /var/www/html/Bootstrapwebsite/
+	cp images.jpeg /var/www/html/Bootstrapwebsite/
+	cp twitter.webp /var/www/html/Bootstrapwebsite/
+
+	cp images/IMG_1224.jpg /var/www/html/Bootstrapwebsite/
+	cp images/IMG_1227.jpg /var/www/html/Bootstrapwebsite/
+	cp images/IMG_1233.jpg /var/www/html/Bootstrapwebsite/
+	cp images/IMG_1243.jpg /var/www/html/Bootstrapwebsite/
+	cp images/IMG_1249.jpg /var/www/html/Bootstrapwebsite//
+	cp images/IMG_1254.jpg /var/www/html/Bootstrapwebsite/
+	cp images/IMG_1266.jpg /var/www/html/Bootstrapwebsite/
+	cp images/IMG_1895.jpg /var/www/html/Bootstrapwebsite/
+	cp images/IMG_2011.jpg /var/www/html/Bootstrapwebsite/
+	cp images/IMG_2027.jpg /var/www/html/Bootstrapwebsite/
 
 	echo "Current contents of your HTML directory: "
 	ls -l /var/www/html/Bootstrapwebsite/
